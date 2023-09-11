@@ -1,0 +1,27 @@
+{
+  "name": "securenotes",
+  "version": "1.0.0",
+  "description": "Demo Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcarterbriggs/SecureNotes.git"
+  },
+  "author": "J. Carter Briggs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcarterbriggs/SecureNotes/issues"
+  },
+  "homepage": "https://github.com/jcarterbriggs/SecureNotes#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1454.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.1"
+  }
+}
